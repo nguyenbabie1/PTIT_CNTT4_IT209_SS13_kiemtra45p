@@ -4,7 +4,7 @@
 - **Họ và tên:** Doãn Mạnh Duy
 - **Lớp / Mã SV:** HN_KS24_CNTT4
 - **Môn học:** DevOps (IT209)
-- **Repository:** [HN_KS24_CNTT4_DoanManhDuy_IT209_SS12_KIEMTRA](https://github.com/Duy18ND/HN_KS24_CNTT4_DoanManhDuy_IT209_SS12_KIEMTRA.git)
+- **Repository:** [HN_KS24_CNTT4_DoanManhDuy_IT209_SS12_KIEMTRA](https://github.com/nguyenbabie1/PTIT_CNTT4_IT209_SS13_kiemtra45p)
 
 ---
 
